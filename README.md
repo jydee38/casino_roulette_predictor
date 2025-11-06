@@ -1,5 +1,5 @@
 Analyseur de Stratégie de Roulette
-(Pensez à remplacer cette URL par une capture d'écran de votre propre application)
+
 
 Ce projet est un outil d'assistance à la décision pour la roulette, développé en Python avec une interface graphique moderne grâce à CustomTkinter.
 
